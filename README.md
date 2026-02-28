@@ -53,8 +53,8 @@ https://192.168.1.12:9090  # Start service first
 - [Hardware.md](./Hardware.md) – Specs, procurement, storage layout
 - [Commands/installing-OS.md](./Commands/installing-OS.md) – Debian 12.6 installation steps
 - [Commands/updating-network-driver.md](./Commands/updating-network-driver.md) – Network troubleshooting & WiFi driver setup
-- [Docs/Server-guide.md](./Docs/Server-guide.md) – Complete technical reference
-- [Docs/Project-report.md](./Docs/Project-report.md) – Full project documentation with cost analysis
+- [Docs/Server-guide.md](./Docs/Server-guide.docx) – Complete technical reference
+- [Docs/Project-report.md](./Docs/Project-report.pdf) – Full project documentation with cost analysis
 
 ## Common Commands
 
