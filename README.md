@@ -24,7 +24,7 @@ This repository documents the setup and configuration of a Debian-based cloud st
 | **OS** | Debian 12.6 Bookworm |
 | **CPU** | Intel Core 2 Duo |
 | **RAM** | 4 GB DDR2 |
-| **Storage** | 1.8 TB (MergerFS) + 1 TB Backup |
+| **Storage** | 1.5 TB (MergerFS) + 1 TB Backup |
 
 ## Quick Start
 
@@ -85,7 +85,7 @@ journalctl -p err -n 20
 
 ## Troubleshooting
 
-For detailed troubleshooting, network diagnostics, and advanced commands, see [Docs/Server-guide.md](./Docs/Server-guide.md).
+For detailed troubleshooting, network diagnostics, and advanced commands, see [Docs/Server-guide.md](./Commands/Server-guide.md).
 
 ## License
 

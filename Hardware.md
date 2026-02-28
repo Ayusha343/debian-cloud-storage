@@ -35,8 +35,8 @@ A repurposed early-2000s desktop PC from postal office clearance sale, upgraded 
 ┌─────────────────────────────────────┐
 │   MergerFS Pool (/srv/data)         │
 │   ├─ 1 TB HDD A (DATA1)             │
-│   ├─ 1 TB HDD B (DATA2)             │
-│   └─ Total: ~1.8 TB usable          │
+│   ├─ 500 GB HDD B (DATA2)           │
+│   └─ Total: ~1.4 TB usable          │
 └─────────────────────────────────────┘
          ↓
 ┌─────────────────────────────────────┐
@@ -63,7 +63,7 @@ A repurposed early-2000s desktop PC from postal office clearance sale, upgraded 
   - **UUID**: [Run `blkid` to confirm]
   - **Mount Point**: /srv/dataA
   
-- **DATA2**: 1 TB 3.5" HDD
+- **DATA2**: 500 GB 3.5" HDD
   - **Label**: DATA2
   - **UUID**: [Run `blkid` to confirm]
   - **Mount Point**: /srv/dataB
@@ -71,7 +71,7 @@ A repurposed early-2000s desktop PC from postal office clearance sale, upgraded 
 - **Pool**: Both drives merged via MergerFS at `/srv/data`
 
 ### Backup Drive
-- **BACKUP1**: 1 TB HDD (cold backup)
+- **BACKUP1**: 1 TB 3.5" HDD (cold backup)
 - **Label**: BACKUP1
 - **Mount Point**: /srv/backup (mounted only during weekly backup)
 - **Schedule**: Saturdays at 02:00 (SystemD timer)
@@ -103,12 +103,12 @@ A repurposed early-2000s desktop PC from postal office clearance sale, upgraded 
 | Item | Cost |
 |------|------|
 | PC Bundle (Facebook Marketplace) | ₹3,500 |
-| 2× 1 TB Hard Drives | ₹600 |
-| DDR2 2 GB RAM (2 sticks) | ₹150 |
+| 2× 1 TB Hard Drives | ₹1200 |
+| DDR2 2 GB RAM (2 sticks) | ₹300 |
 | TP-Link TL-WN725N Wi-Fi Adapter | ₹600 |
 | Domain (storagepaglu.pp.ua, 1 year) | ₹120 |
 | Miscellaneous (cables, screws) | ₹0 |
-| **Total** | **~₹5,000** |
+| **Total** | **~₹6,000** |
 
 ## Performance Notes
 
