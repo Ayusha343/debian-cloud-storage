@@ -10,9 +10,9 @@ A repurposed early-2000s desktop PC from postal office clearance sale, upgraded 
 | **CPU** | Intel Core 2 Duo (early generation) | Facebook Marketplace (₹3,500 bundle) |
 | **RAM** | 4 GB DDR2 (2×2 GB sticks) | ₹150 (2 sticks) + original 2×1 GB |
 | **System Drive** | 128 GB SSD | Included in PC bundle |
-| **Live Storage - Drive 1** | 1 TB Toshiba 2.5" HDD | Facebook Marketplace (₹300) |
+| **Live Storage - Drive 1** | 1 TB Toshiba 2.5" HDD | Facebook Marketplace (₹600) |
 | **Live Storage - Drive 2** | 500 GB 3.5" HDD | Included in PC |
-| **Backup Drive** | 1 TB (Cold backup, weekly rotation) | Facebook Marketplace (₹300)|
+| **Backup Drive** | 1 TB (Cold backup, weekly rotation) | Facebook Marketplace (₹600)|
 | **Wi-Fi Adapter** | TP-Link TL-WN725N (RTL8188EUS) | Separate purchase (₹600) |
 | **PSU** | 350W ATX | Included in PC bundle |
 | **UPS** | Standard UPS unit | Included in PC bundle |
