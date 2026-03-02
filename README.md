@@ -85,7 +85,7 @@ journalctl -p err -n 20
 
 ## Troubleshooting
 
-For detailed troubleshooting, network diagnostics, and advanced commands, see [Docs/Server-guide.pdf](./Commands/Server-guide.pdf).
+For detailed troubleshooting, network diagnostics, and advanced commands, see [Docs/Server-guide.docx](./Commands/Server-guide.docx).
 
 ## License
 
