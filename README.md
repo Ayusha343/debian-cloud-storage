@@ -76,16 +76,16 @@ journalctl -p err -n 20
 
 | Service | Port | Auto-Start |
 |---------|------|-----------|
-| Apache2 (Nextcloud) | 80/443 | ✓ |
+| Apache2 (Nextcloud) | 8080/443 | ✓ |
 | MariaDB | 3306 | ✓ |
 | Redis Cache | 6379 | ✓ |
 | SSH | 2222 | ✓ |
 | Cloudflared Tunnel | - | ✓ |
-| Cockpit (optional) | 9090 | ○ Manual |
+| Cockpit (optional) | 9090 | ✓ |
 
 ## Troubleshooting
 
-For detailed troubleshooting, network diagnostics, and advanced commands, see [Docs/Server-guide.md](./Commands/Server-guide.md).
+For detailed troubleshooting, network diagnostics, and advanced commands, see [Docs/Server-guide.pdf](./Commands/Server-guide.pdf).
 
 ## License
 
